@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Globo RJ
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/globorj_bc15c774_f77b51757cd96c9feddb921ccc804f602bf377fb/playlist.m3u8
+#EXTINF:-1,Record
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Globo SP
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_5b77aa65e6189561027f71e8085af4863420a6ca/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepipoca_fd937516_0486fb5b4327c27bc8723b0028c0fecc449d0217/playlist.m3u8
+#EXTINF:-1,Telecine Action
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/telecineaction_be057d4c_36f107fe9f3f46de355b1dbc415ca4c2507c9eb8/playlist.m3u8
+#EXTINF:-1,Megapix
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/megapix_a6f16ab4_27b65f4c075831cc363b4e11903e3444ec26c765/playlist.m3u8
